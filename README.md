@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noilsa Infante</h1>
-<h3 align="center">I'm an Informatics Engineer passionate about technology, problem-solving, and continuous learning.</h3>
+<h3 align="center">I'm a Computer Science Engineer passionate about technology, problem-solving, and continuous learning.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ... full-stack development through a Bootcamp at Developers.Institute
 - ⚡ Fun fact: **I believe salsa dancing and coding have something in common: rhythm, creativity, and practice!**
 
 <h3 align="left">Connect with me:</h3>
