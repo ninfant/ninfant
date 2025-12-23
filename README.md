@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noilsa Infante</h1>
-<h3 align="center"> Computer Science Engineer with professional experience in QA Engineering and Full-Stack Development, currently building projects to strengthen my development skills. Passionate about turning ideas into clean, well-structured web applications while continuously learning new technologies.</h3>
+<h4 align="center"> Computer Science Engineer with professional experience in Full-Stack Development and QA Engineering, currently building projects to strengthen my development skills. Passionate about turning ideas into clean, well-structured web applications while continuously learning new technologies.</h4>
 
 - ⚡ Fun fact: **I believe salsa dancing and coding have something in common: rhythm, creativity, and practice!**
 
