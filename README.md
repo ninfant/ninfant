@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noilsa Infante</h1>
-<h3 align="center"> Computer Science Engineer with professional experience in Full-Stack Development and QA Engineering, currently building projects to strengthen my development skills. Passionate about turning ideas into clean, well-structured web applications while continuously learning new technologies.</h3>
+<h3 align="center"> Computer Science Engineer (BSc) with 6+ years of professional experience in QA Engineering. Strong analytical mindset with hands-on expertise in functional and regression testing, backend/API testing, Linux-based environments, and SQL data validation.
+I’ve strengthened my coding and scripting skills in Python and JavaScript, supported by a full-stack foundation, which allows me to collaborate effectively with cross-functional teams and understand end-to-end systems and workflows..</h3>
 
 - ⚡ Fun fact: **I believe salsa dancing and coding have something in common: rhythm, creativity, and practice!**
 
