@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noilsa Infante</h1>
-<h3 align="center"> Computer Science Engineer (BSc) with 6+ years of professional experience in QA Engineering. Strong analytical mindset with hands-on expertise in functional and regression testing, backend/API testing, Linux-based environments, and SQL data validation.
+<h3 align="center"> QA Engineer with 6+ years of professional experience. Strong analytical mindset with hands-on expertise in functional and regression testing, backend/API testing, Linux-based environments, and SQL data validation.
 I’ve strengthened my coding and scripting skills in Python and JavaScript, supported by a full-stack foundation, which allows me to collaborate effectively with cross-functional teams and understand end-to-end systems and workflows..</h3>
 
-- ⚡ Fun fact: **I believe salsa dancing and coding have something in common: rhythm, creativity, and practice!**
+- ⚡ Fun fact: In salsa dancing and QA, rhythm matters: repeatable steps, fast feedback, and constant improvement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
