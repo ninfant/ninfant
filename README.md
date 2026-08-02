@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noilsa Infante</h1>
-<h3 align="center"> QA Engineer with 6+ years of professional experience. Strong analytical mindset with hands-on expertise in functional and regression testing, backend/API testing, Linux-based environments, and SQL data validation.
-I’ve strengthened my coding and scripting skills in Python and JavaScript, supported by a full-stack foundation, which allows me to collaborate effectively with cross-functional teams and understand end-to-end systems and workflows..</h3>
+<h3 align="center"> QA Engineer with 6+ years of experience and a growing focus on Automation and integration projects, building solutions that
+help streamline processes and reduce manual work. My QA background, combined with full-stack development knowledge,
+gives me a solid understanding of web applications, backend systems, and software architecture. I enjoy collaborating with
+talented people and adapt well to working both independently and as part of a team. Passionate about continuous learning and
+the use of AI-assisted tools to improve workflows, work more efficiently, and take on new challenges.</h3>
 
 - ⚡ Fun fact: In salsa dancing and QA, rhythm matters: repeatable steps, fast feedback, and constant improvement.**
 
